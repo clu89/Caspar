@@ -1,5 +1,5 @@
 ### Hi there, I am Caspar Lu 👋
-- I am a MPH student at Emory University interested in using R and Python to analyze omics dataset
+- I am a MPH student at Emory University interested in using R and Python to analyze omics datasets
 
 **Current R Projects:**
 - Protoeomics analysis
