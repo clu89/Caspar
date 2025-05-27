@@ -1,7 +1,5 @@
-### Hi there, I am Caspar Lu
-
-- I am currently working on R and Python
-- I am learning SQL and machine learning
+### Hi there, I am Caspar Lu 👋
+- I am a MPH student at Emory University interested in using R and Python to analyze omics dataset
 
 **Current R Projects:**
 - Protoeomics analysis
